@@ -1,4 +1,21 @@
-﻿## 题干
+﻿## 出题前必看
+采用SQLite3引擎，并不是Mysql、SQLServer或者Oracle，也不是HiveSQL。
+
+SQLite3支持绝大部分SQL语法和函数，具体见：
+
+the standard SQL language syntax: https://www.sqlite.org/lang.html
+
+core functions: https://www.sqlite.org/lang_corefunc.html
+
+date time functions: https://www.sqlite.org/lang_datefunc.html
+
+aggregate functions: https://www.sqlite.org/lang_aggfunc.html
+
+window functions: https://www.sqlite.org/windowfunctions.html
+
+json functions: https://www.sqlite.org/json1.html
+
+## 题干
 Employee Salaries and Departments
 
 ## 题目描述
