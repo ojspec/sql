@@ -3,17 +3,17 @@
 
 SQLite3支持绝大部分SQL语法和函数，具体见：
 
-the standard SQL language syntax: https://www.sqlite.org/lang.html
+the standard SQL language syntax: https://labfiles.acmcoder.com/sqlite-doc/lang.html
 
-core functions: https://www.sqlite.org/lang_corefunc.html
+core functions: https://labfiles.acmcoder.com/sqlite-doc/lang_corefunc.html
 
-date time functions: https://www.sqlite.org/lang_datefunc.html
+date time functions: https://labfiles.acmcoder.com/sqlite-doc/lang_datefunc.html
 
-aggregate functions: https://www.sqlite.org/lang_aggfunc.html
+aggregate functions: https://labfiles.acmcoder.com/sqlite-doc/lang_aggfunc.html
 
-window functions: https://www.sqlite.org/windowfunctions.html
+window functions: https://labfiles.acmcoder.com/sqlite-doc/windowfunctions.html
 
-json functions: https://www.sqlite.org/json1.html
+json functions: https://labfiles.acmcoder.com/sqlite-doc/json1.html
 
 ## 题干
 Employee Salaries and Departments
